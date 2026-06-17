@@ -17,3 +17,4 @@
 </html>
 
 <!--Script-->
+document.getElementById("banner").style.backgroundColor = "#333333";
