@@ -11,7 +11,7 @@
     <p id="texto" style="background:lightgray;">
         Texto de exemplo
     </p>
-
+    <script src="script.js"></script>
 </body>
 
 </html>
